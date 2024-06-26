@@ -1,0 +1,157 @@
+name: coffee_house
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.8.0
+  firebase_database: ^10.2.5
+  fluttertoast: ^8.2.2
+  provider: ^6.0.5
+  google_sign_in: ^6.1.6
+  url_launcher: ^6.0.9
+  google_maps_flutter: ^2.5.0
+  flutter_carousel_slider: ^1.1.0
+  firebase_storage: ^11.5.1
+  image_picker: ^1.0.4
+  fl_chart: ^0.64.0
+  # other dependencies
+  kommunicate_flutter: ^1.8.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/logo.jpg
+    - images/logo.png
+    - images/gmail.png
+    - images/search.png
+    - images/house.png
+    - images/menu.png
+    - images/user.png
+    - images/store.png
+    - images/history.png
+    - images/farmer.png
+    - images/voucher.png
+    - images/call.png
+    - images/gear.png
+    - images/astronaut.png
+    - images/man.png
+    - images/bell.png
+    - images/banner.webp
+    - images/banner2.jpg
+    - images/bannermini1.jpg
+    - images/bannermini2.jpg
+    - images/bannermini3.jpg
+    - images/bn1.png
+    - images/bn2.png
+    - images/bn3.png
+    - images/ppl1.png
+    - images/ppl2.png
+    - images/ppl3.png
+    - images/ppl4.png
+    - images/ppl5.png
+    - images/ppl6.png
+    - images/la1.png
+    - images/la2.png
+    - images/la3.png
+    - images/la4.png
+    - images/la5.png
+    - images/la6.png
+    - images/la7.png
+    - images/la8.png
+    - images/la9.png
+    - images/la10.png
+    - images/la11.png
+    - images/la12.png
+    - images/lp1.png
+    - images/lp2.png
+    - images/lp3.png
+    - images/lp4.png
+    - images/lp5.png
+    - images/lp6.png
+    - images/lp7.png
+    - images/bannerBig2.jpg
+    - images/bannerBig1.jpg
+    - images/house1.png
+    - images/house2.png
+    - images/house3.png
+    - images/house4.png
+    - images/description.png
+    - images/storemap.png
+
+
+
+
+
+      # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Signatra
+      fonts:
+        - asset: fonts/Signatra.ttf
+    - family: Brand-Regular
+      fonts:
+        - asset: fonts/bolt-regular.ttf
+    - family: Brand Bold
+      fonts:
+        - asset: fonts/bolt-semibold.ttf
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525483618524",
+    "project_id": "flutter-ea600",
+    "storage_bucket": "flutter-ea600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525483618524:android:397e987e30aaf21e368419",
+        "android_client_info": {
+          "package_name": "com.example.coffee_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd98Xy2YW-CYXYtxonwvPyCT57oiWPSio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152269123895",
+    "project_id": "eappstore-c4c5b",
+    "storage_bucket": "eappstore-c4c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152269123895:android:f4d1cb624659aee2542ab2",
+        "android_client_info": {
+          "package_name": "com.example.coffee_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XfmaWDnQxdWvD2jqXxMo2okDiXuH6gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
