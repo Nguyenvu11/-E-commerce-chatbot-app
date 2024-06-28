@@ -13,10 +13,10 @@
  -  Order History: View past orders and order details.
  -  Chatbot Integration: Get assistance, recommendations, and answers to queries from an AI-powered chatbot.
 
-<img width="1000" alt="loginapp" src="https://github.com/Nguyenvu11/-E-commerce-chatbot-app/assets/85069392/ebe96a14-e4df-420a-9d41-2a532013d60f"><img width="1000" alt="appchatbot" src="https://github.com/Nguyenvu11/-E-commerce-chatbot-app/assets/85069392/6adad1bb-13ef-4237-a797-832eec6fa27f">
+<img width="1000" alt="loginapp" src="https://github.com/Nguyenvu11/-E-commerce-chatbot-app/assets/85069392/ebe96a14-e4df-420a-9d41-2a532013d60f">
+<img width="1000" alt="appchatbot" src="https://github.com/Nguyenvu11/-E-commerce-chatbot-app/assets/85069392/6adad1bb-13ef-4237-a797-832eec6fa27f">
 <img width="1000" alt="app" src="https://github.com/Nguyenvu11/-E-commerce-chatbot-app/assets/85069392/dac3a19f-bb48-48f9-ab24-dfc7e18a14c2">
 <img width="1000" alt="app2" src="https://github.com/Nguyenvu11/-E-commerce-chatbot-app/assets/85069392/8c175ba1-a06d-4e19-8ca7-f4141714ae33">
-<img width="1000" alt="app1" src="https://github.com/Nguyenvu11/-E-commerce-chatbot-app/assets/85069392/da5e43ba-a4ef-49bf-bef4-4ec16c35ebf4">
 
 
 **Technology Stack**
