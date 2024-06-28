@@ -1,5 +1,4 @@
-# coffee_house
-
+# E-commerce-app integrating chatbot 
 A new Flutter project.
 
 ## Getting Started
